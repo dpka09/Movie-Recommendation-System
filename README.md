@@ -4,5 +4,4 @@ In this project I have implemented a content based movie recommender system. The
 
 **How it works:**
 
-
-![Working Mechanism]](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*OZCoH_lgl5kyY3Wtjbb90g.jpeg))
+![](https://miro.medium.com/v2/resize:fit:792/1*P63ZaFHlssabl34XbJgong.jpeg)
