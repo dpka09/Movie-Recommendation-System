@@ -5,3 +5,5 @@ In this project I have implemented a content based movie recommender system. The
 **How it works:**
 
 ![](https://miro.medium.com/v2/resize:fit:792/1*P63ZaFHlssabl34XbJgong.jpeg)
+
+Content Based Filtering - They suggest similar items based on a particular item. This filter applies item metadata, such as genre, director, description, actors, etc. for films in recommending these items. The fundamental idea behind such recommender systems is that if someone liked a particular item, he or she will like an item with a similar nature.
