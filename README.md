@@ -9,10 +9,14 @@ In this project I have implemented a content based movie recommender system. The
 **Live Demo**
 
 
+
+
 https://github.com/user-attachments/assets/b84517ce-726e-4a4a-bbdb-e0c1d218d958
 
 
 **Content Based Filtering**
+
+
 
 They suggest similar items based on a particular item. This filter applies item metadata, such as genre, director, description, actors, etc. for films in recommending these items. The fundamental idea behind such recommender systems is that if someone liked a particular item, he or she will like an item with a similar nature.
 
