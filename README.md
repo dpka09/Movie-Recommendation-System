@@ -52,3 +52,7 @@ You can collect dataset from https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
 
 
+We can view the live website on render using: https://movie-recommendation-system-2-acry.onrender.com/
+
+
+
